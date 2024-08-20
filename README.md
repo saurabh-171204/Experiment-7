@@ -58,6 +58,9 @@ int main() {
     return 0;
 }
 ```
+OUTPUT:
+![ar1](https://github.com/user-attachments/assets/16d2e80c-f215-4bbd-9475-d2181353c278)
+
 
 CODE B:
 ```
@@ -84,6 +87,9 @@ int main() {
    return 0;
 }
 ```
+OUTPUT:
+![ar2](https://github.com/user-attachments/assets/3b4386fc-0ce3-4c41-b13d-80e75ecc4363)
+
 
 CODE C:
 ```
@@ -119,6 +125,9 @@ int main() {
     }
 }
 ```
+OUTPUT:
+![ar3](https://github.com/user-attachments/assets/6f8c5aaa-5aff-4fed-8533-959a78ab7326)
+
 
 CODE D:
 ```
@@ -147,6 +156,8 @@ int main() {
     }
 }
 ```
+OUTPUT:
+![ar4](https://github.com/user-attachments/assets/21a2366f-d5a5-4b10-a642-7c58f6bccb77)
 
 CODE E:
 ```
@@ -181,6 +192,8 @@ int main() {
   return 0;
 }
 ```
+OUTPUT:
+![ar5](https://github.com/user-attachments/assets/39af72b2-cd62-481d-8a70-423e202aea8a)
 
 CODE F:
 ```
@@ -202,6 +215,8 @@ int main() {
     cout<<"Average = "<<avg;
 }
 ```
+OUTPUT:
+![ar6](https://github.com/user-attachments/assets/8ae0857e-b3b7-49f3-855c-6f2811157067)
 
 CODE G:
 ```
@@ -230,17 +245,13 @@ int main() {
     cout<<"Maximum: "<<max<<endl<<"Minimum: "<<min;
 }
 ```
+OUTPUT:
+![ar7](https://github.com/user-attachments/assets/86818c3e-ed07-424d-b856-7115482b0f39)
 
 STRINGS : In C++ programming language, strings are sequences of characters used to represent text. The string class stores the characters as a sequence of bytes with the functionality of allowing access to the single-byte character. There are two primary ways to handle strings in C++: (i) C-style strings (character arrays) (ii)std::string from the Standard Library.
 Some differnces between strings and array in C++:
 Strings are one- dimensional array of characters terminated by a null character while array are data structures containing a collection of elements each identified by array index .
-Strings can an only store characters and has a fixed size while arrays can store a set of integers, doubles, floats ets and has a fixed size but can be changed using char pointer .
-
-## Comparison Table
-
-
-
-
+Strings can an only store characters and has a fixed size while arrays can store a set of integers, doubles, floats ets and has a fixed size but can be changed using char pointer. 
 
 CODE AND OUTPUT :
 CODE A: String
@@ -256,6 +267,8 @@ int main() {
     return 0;
 }
 ```
+OUTPUT:
+![st1](https://github.com/user-attachments/assets/9fed9d50-de7b-487a-b387-a6675d300527)
 
 
 CODE B: Concatenation of strings
@@ -271,6 +284,8 @@ cout<<"CONCATENATION: "<<x+y;
 return 0; 
 }
 ```
+OUTPUT:
+![st2](https://github.com/user-attachments/assets/4099c879-62e1-48ec-8464-c6601908b3ce)
 
 CODE C : Printing string in reverse
 ```
@@ -288,6 +303,8 @@ cin>>x;
     return 0; 
 }
 ```
+OUTPUT:
+![st3](https://github.com/user-attachments/assets/8793a154-44db-4f44-8596-1e7dfa365009)
 
 
 CODE D : Checking palindrome
@@ -316,6 +333,8 @@ int main() {
     } 
 }
 ```
+OUTPUT:
+![st4](https://github.com/user-attachments/assets/a85e6fa7-2550-497f-af69-cd67318d5091)
 
 
 CONCLUSION :
