@@ -1,5 +1,5 @@
-//SARA KANYAL
-//23070123115
+//SAURABH BIHANI
+//23070123166
 //EXP 7A 
 //Printing array 
 #include <iostream>
