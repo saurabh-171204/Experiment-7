@@ -1,5 +1,5 @@
-//SARA KANYAL
-//23070123115
+//SAURABH BIHANI
+//23070123166
 // EXPERIMENT 7A_STRING
 #include <iostream>
 #include <string>
